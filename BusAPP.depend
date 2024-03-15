@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702286611 source:d:\c c++\laboratoare pclp\busapp\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<sstream>
+	<vector>
+	<conio.h>
+	<stdlib.h>
+
